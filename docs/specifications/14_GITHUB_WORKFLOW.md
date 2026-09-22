@@ -83,7 +83,7 @@ feat/m6-ui (individual member branches)
 - Feature Branches (`feat/*`): **Individual member branches** developed from `dev`:
   - `feat/m1-cv-metrology`: **Kunal Raj** ([@kunal-raj-dev](https://github.com/kunal-raj-dev)) — CV, Optics & Scale
   - `feat/m2-ocr`: **Parmarth Kumar** ([@parmarth-kumar](https://github.com/parmarth-kumar)) — Multilingual OCR
-  - `feat/m3-extraction`: **Harsh Patel** ([@anonymousgrouphp-collab](https://github.com/anonymousgrouphp-collab)) — Semantic Extraction & NLP
+  - `feat/m3-extraction`: **Harsh Patel** ([@harshpatelcse](https://github.com/harshpatelcse)) — Semantic Extraction & NLP
   - `feat/m4-rule-engine`: **Ambika Bansal** ([@bansalambika12-ship-it](https://github.com/bansalambika12-ship-it)) — Statutory Rule Engine
   - `feat/m5-evidence`: **Shailendra Pratap Singh** ([@shailendrapratap1](https://github.com/shailendrapratap1)) — Backend, Platform & Evidence
   - `feat/m6-ui`: **Urvashi Rajput** ([@rajputurvashi2006-bit](https://github.com/rajputurvashi2006-bit)) — Frontend & HUD

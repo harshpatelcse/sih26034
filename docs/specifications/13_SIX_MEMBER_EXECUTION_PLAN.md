@@ -64,7 +64,7 @@
 
 #### MEMBER 3: Information Extraction & NLP Engineer
 
-- **Assigned Engineer:** **Harsh Patel** ([@anonymousgrouphp-collab](https://github.com/anonymousgrouphp-collab))
+- **Assigned Engineer:** **Harsh Patel** ([@harshpatelcse](https://github.com/harshpatelcse))
 - **Role:** Semantic Token Linking & Entity Normalization
 - **Primary Objective:** Convert raw OCR tokens into verified statutory packaging entities without hallucinations.
 - **Core Tasks:**

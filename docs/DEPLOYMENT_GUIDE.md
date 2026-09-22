@@ -75,7 +75,7 @@ For deploying on AWS EC2, DigitalOcean, Azure, or private server hardware:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/anonymousgrouphp-collab/sih26034.git
+git clone https://github.com/harshpatelcse/sih26034.git
 cd sih26034
 
 # 2. Launch production stack with zero configuration
